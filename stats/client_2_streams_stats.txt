@@ -1,0 +1,25 @@
+Stream 1:
+Frames received: 3156
+Bytes received: 6290652
+Time taken: 35.29 seconds
+
+Avg. Bytes Throughput: 178254.83 bytes/sec
+
+Avg. Frames Throughput: 89.43 frames/sec
+
+Stream 2:
+Frames received: 3711
+Bytes received: 6451321
+Time taken: 38.38 seconds
+
+Avg. Bytes Throughput: 168106.15 bytes/sec
+
+Avg. Frames Throughput: 96.70 frames/sec
+
+Total bytes sent: 81
+Total bytes received: 12741973
+Total frames received: 6867
+Total time taken: 38.44 seconds
+Total Avg. Frames Throughput: 179 frames/sec
+
+Total Avg. Bytes Throughput: 323.72 KB/sec

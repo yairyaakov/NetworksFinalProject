@@ -1,0 +1,97 @@
+Stream 1:
+Frames received: 3131
+Bytes received: 4681400
+Time taken: 69.45 seconds
+
+Avg. Bytes Throughput: 67409.04 bytes/sec
+
+Avg. Frames Throughput: 45.08 frames/sec
+
+Stream 2:
+Frames received: 4315
+Bytes received: 5154304
+Time taken: 79.91 seconds
+
+Avg. Bytes Throughput: 64504.67 bytes/sec
+
+Avg. Frames Throughput: 54.00 frames/sec
+
+Stream 3:
+Frames received: 2157
+Bytes received: 4193420
+Time taken: 48.18 seconds
+
+Avg. Bytes Throughput: 87036.94 bytes/sec
+
+Avg. Frames Throughput: 44.77 frames/sec
+
+Stream 4:
+Frames received: 2450
+Bytes received: 3144516
+Time taken: 54.66 seconds
+
+Avg. Bytes Throughput: 57525.03 bytes/sec
+
+Avg. Frames Throughput: 44.82 frames/sec
+
+Stream 5:
+Frames received: 2172
+Bytes received: 3145677
+Time taken: 48.50 seconds
+
+Avg. Bytes Throughput: 64861.83 bytes/sec
+
+Avg. Frames Throughput: 44.79 frames/sec
+
+Stream 6:
+Frames received: 937
+Bytes received: 1569672
+Time taken: 20.87 seconds
+
+Avg. Bytes Throughput: 75228.03 bytes/sec
+
+Avg. Frames Throughput: 44.91 frames/sec
+
+Stream 7:
+Frames received: 3627
+Bytes received: 3883045
+Time taken: 36.75 seconds
+
+Avg. Bytes Throughput: 105662.13 bytes/sec
+
+Avg. Frames Throughput: 98.69 frames/sec
+
+Stream 8:
+Frames received: 855
+Bytes received: 1035902
+Time taken: 19.02 seconds
+
+Avg. Bytes Throughput: 54459.18 bytes/sec
+
+Avg. Frames Throughput: 44.95 frames/sec
+
+Stream 9:
+Frames received: 1422
+Bytes received: 1999744
+Time taken: 23.22 seconds
+
+Avg. Bytes Throughput: 86115.66 bytes/sec
+
+Avg. Frames Throughput: 61.24 frames/sec
+
+Stream 10:
+Frames received: 1
+Bytes received: 0
+Time taken: 0.00 seconds
+
+Avg. Bytes Throughput: 0.00 bytes/sec
+
+Avg. Frames Throughput: 699050.67 frames/sec
+
+Total bytes sent: 82
+Total bytes received: 28807680
+Total frames received: 21067
+Total time taken: 85.44 seconds
+Total Avg. Frames Throughput: 247 frames/sec
+
+Total Avg. Bytes Throughput: 329.28 KB/sec
